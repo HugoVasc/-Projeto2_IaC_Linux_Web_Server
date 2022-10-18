@@ -2,7 +2,7 @@
 
 ## Projeto 2 da etapa Linux do bootcamp Cloud DevOps Experience - Banco Carrefour
 
-O script presente neste repositório é responsável por: 
+O script presente neste repositório é destinado a maquinas Ubuntu server e é responsável por:
 
 1. Atualizar o servidor
 2. Instalar o Apache2
