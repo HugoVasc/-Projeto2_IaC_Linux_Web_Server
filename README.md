@@ -1,7 +1,5 @@
 # Projeto2 Infraestrutura como código (IaC) - Linux - Bootcamp Cloud DevOps Experience - Banco Carrefour
 
-## Projeto 2 da etapa Linux do bootcamp Cloud DevOps Experience - Banco Carrefour
-
 O script presente neste repositório é destinado a maquinas Ubuntu server e é responsável por:
 
 1. Atualizar o servidor
